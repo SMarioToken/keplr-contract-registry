@@ -1,6 +1,6 @@
 {
     "contractAddress": "terra1rc4ef7s6pzuf9pkg8ymnw29pjz2yfm3tjg0kleu4348c2e6upkxqdfdj5u",
-    "imageUrl": "https://raw.githubusercontent.com/SMarioToken/keplr-contract-registry/patch-1/images/columbus/smt.png",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/smt.png",
     "metadata": {
         "name": "SMarioToken",
         "symbol": "SMT",
